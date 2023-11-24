@@ -1,3 +1,5 @@
+import hero from "../../assets/hero-image.png"
+
 function Hero() {
   return (
     // HERO SECTION START
@@ -17,7 +19,7 @@ function Hero() {
           {/* IMAGE START */}
           <div className="w-full self-end px-4 lg:w-1/2">
             <div className="mt-10 lg:mt-0 right-0">
-              <img src="public/hero-image.png" alt="hero-image" className="max-w-full mx-auto"/>
+              <img src={hero} alt="hero-image" className="max-w-full mx-auto"/>
             </div>
           </div>
           {/* IMAGE END */}

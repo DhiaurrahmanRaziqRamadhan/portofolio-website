@@ -1,4 +1,3 @@
-import React from "react"
 import PortofolioCard from "./PortofolioCard"
 
 function Portofolio({portfolio}) {
