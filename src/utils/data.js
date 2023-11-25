@@ -19,13 +19,13 @@ const getData = () => ([
   {
     id: 3,
     title: "Aplikasi Catatan Pribadi",
-    body: "Aplikasi untuk menuliskan catatan pribadi dan bisa diarsipkan",
+    body: "Aplikasi untuk menuliskan catatan pribadi dan bisa diarsipkan menggunakan ReactJS",
     image: img3,
   },
   {
     id: 4,
     title: "Cinema Hunt",
-    body: "Website untuk mencari judul film favorit",
+    body: "Website untuk mencari judul film favorit menggunakan ReactJS dan Tailwindcss",
     image: img4,
   },
 ])

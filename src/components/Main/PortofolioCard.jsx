@@ -4,7 +4,7 @@ function PortofolioCard({title, body, image}) {
       <div className="rounded-md shadow-md overflow-hidden">
         <img src={image} alt="RentalSepeda" width="w-full"/>
       </div>
-      <h5 className="text-xl text-dark font-semibold mt-5 mb-3">{title}</h5>
+      <h5 className="text-xl text-dark dark:text-white font-semibold mt-5 mb-3">{title}</h5>
       <p className="text-secondary text-base font-medium">{body}</p>
     </div>
   )
