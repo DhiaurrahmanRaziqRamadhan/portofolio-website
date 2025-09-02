@@ -8,7 +8,7 @@ function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_php1mvt', 'template_qucmx0r', form.current, 'LDZqYfaZELtbSs1Tt')
+    emailjs.sendForm('service_it0bldm', 'template_qucmx0r', form.current, 'LDZqYfaZELtbSs1Tt')
       .then(() => {
           Swal.fire({
             title: "Pesan Berhasil Terkirim",

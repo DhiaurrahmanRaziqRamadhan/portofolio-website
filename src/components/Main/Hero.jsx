@@ -15,18 +15,18 @@ function Hero() {
               </span>
             </h1>
             <h2 className="font-medium text-slate-600 dark:text-white text-lg mb-5 md:text-xl lg:text-2xl">
-              Front-End Developer
+              Web Developer
             </h2>
             <p className="font-medium text-slate-500 mb-10 leading-relaxed">
-              Merupakan seorang mahasiswa semester 5 yang saat ini sedang
-              tertarik mempelajari{" "}
+              Merupakan seorang lulusan baru Universitas
+              Lampung jurusan Ilmu Komputer yang saat ini sedang tertarik di bidang {" "}
               <span className="text-dark font-semibold dark:text-white">
-                TailwindCSS
+                Web Deloper
               </span>{" "}
-              dan{" "}
+              {/* dan{" "}
               <span className="text-dark font-semibold dark:text-white">
                 ReactJs
-              </span>
+              </span> */}
             </p>
 
             <a

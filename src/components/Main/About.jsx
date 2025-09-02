@@ -9,9 +9,9 @@ function About() {
               Tentang Saya
             </h2>
             <p className="mb-10 leading-relaxed text-dark dark:text-slate-300">
-              Saya merupakan seorang mahasiswa semester 5 dari Universitas
-              Lampung yang saat ini sedang tertarik untuk menjadi Frond End
-              Developer menggunakan TailwindCSS dan React Js
+              Saya merupakan lulusan baru Universitas
+              Lampung jurusan Ilmu Komputer yang saat ini sedang tertarik untuk menjadi Web
+              Developer yang memiliki keterampilan di bidang React.js dan Laravel
             </p>
           </div>
           <div className="mb-10 w-full px-4 lg:w-1/2">
@@ -41,7 +41,7 @@ function About() {
                 </svg>
               </a>
               <a
-                href="https://www.linkedin.com/in/dhiaurrahman-raziq-ramadhan/"
+                href="https://www.linkedin.com/in/raziqramadhan/"
                 target="_blank"
                 className="mr-3 flex h-9 w-9 items-center justify-center rounded-full"
                 rel="noreferrer"
